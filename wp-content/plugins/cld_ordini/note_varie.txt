@@ -1,0 +1,6 @@
+::teo - 09.2013
+aggiunta la greazione della tabella CLD_USERS al setup del plug-in
+aggiunta funzione "cld_form_userlogin" per caricate il form di login nel thema
+
+::teo - 03.2013
+plug-in per il salvataggio degli utenti ma che salva dati personalizzati anche nella tabella CLD_USERS
